@@ -1,0 +1,12 @@
+.title-part {
+  height: 60px;
+  background-color: #fff;
+  padding-left: 30px;
+}
+
+.title-part-heading {
+  height: 100%;
+  font-size: 24px;
+  line-height: 60px;
+  color: #000;
+}

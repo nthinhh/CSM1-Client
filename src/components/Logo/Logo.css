@@ -1,0 +1,10 @@
+.logo-part {
+  height: 100px;
+  text-align: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.logo-image {
+  height: 100%;
+}
